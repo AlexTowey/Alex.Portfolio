@@ -3,11 +3,16 @@ body {
   background-color:lightblue;
 }
 h1   {
-  color: lighblue;
+  color: lightblue;
+  text-align: center;
+}
+h2   {
+  color: lightblue;
   text-align: center;
 }
 p    {
-  color: 
+  color: lightblue;
+  text-align: center;
 }
 ul {
     list-style-type: none;
