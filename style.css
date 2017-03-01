@@ -1,14 +1,18 @@
 
 body {
+  
   background-color:lightblue;
 }
 h1   {
+  font-family: "Times New Roman", Times, serif;
   text-align: center;
 }
 h2   {
+  font-family: "Times New Roman", Times, serif;
   text-align: center;
 }
 p    {
+  font-family: "Times New Roman", Times, serif;
   text-align: center;
 }
 ul {
@@ -21,6 +25,7 @@ ul {
 
 li {
     float: left;
+ 
 }
 
 li a {
