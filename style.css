@@ -52,6 +52,7 @@ img {
     margin: auto;
   border-style: solid;
   border-color: blue;
+  border-width: 15px;
 }
   
 
