@@ -50,6 +50,8 @@ li a:hover {
 img {
     display: block;
     margin: auto;
+  border-style: solid;
+  border-color: blue;
 }
   
 
